@@ -2,7 +2,7 @@
   "name": "personal-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://komax233.github.io",
+  "homepage": "https://animelos.com",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
