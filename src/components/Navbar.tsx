@@ -4,7 +4,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import logo_white from '../assets/logo.png'
-import logo_green from '../assets/logo5.png'
+// import logo_green from '../assets/logo5.png'
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
 
 export default function Navigation() {
