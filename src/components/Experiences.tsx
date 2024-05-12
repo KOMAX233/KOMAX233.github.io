@@ -8,10 +8,10 @@ import Container from 'react-bootstrap/Container';
 // "BlackBerry",
 // "Geotab"
 export default function Experiences() {
-    let interns: Map<String, String>[] = [
-        ["Wireless Sensors And Devices Lab/Cloudhawk | Full-Stack Developer"],
-        ["BlackBerry | Software Developer Student"],
-        ["Geotab | Technical Support Assistant"]
+    let interns: String[] = [
+        "Wireless Sensors And Devices Lab/Cloudhawk | Full-Stack Developer",
+        "BlackBerry | Software Developer Student",
+        "Geotab | Technical Support Assistant"
     ];
     return(
         <Container fluid>

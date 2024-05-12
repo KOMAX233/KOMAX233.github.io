@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image';
 import logo_white from '../assets/logo.png'
 // import logo_green from '../assets/logo5.png'
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
-import Experiences from './components/Experiences';
+// import Experiences from './components/Experiences';
 
 export default function Navigation() {
     return(
