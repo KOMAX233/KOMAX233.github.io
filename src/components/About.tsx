@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 export default function About() {
     return(
-        <Container id="about">
+        <Container id="about" fluid>
             <div>
                 <div>
                     <h1>Hi, I'm Yue. </h1>
